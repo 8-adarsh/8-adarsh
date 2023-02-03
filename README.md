@@ -1,6 +1,6 @@
 ![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/giphy-7-1024x300.gif)
-<h1 align="center">Hi 👋, I'm Adarsh Kumar Lal</h1>
-<h3 align="center">A passionate JAVA web developer from India</h3>
+<h1 align="center">Hi 🙋‍♂️, I'm Adarsh Kumar Lal</h1>
+<h3 align="center">A passionate JAVA web developer👨‍💻 from India</h3>
 <img align ="right" alt="Coding" height="250" width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=8-adarsh&label=Profile%20views&color=0e75b6&style=flat" alt="8-adarsh" /> </p>
