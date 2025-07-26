@@ -1,6 +1,9 @@
 ![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/giphy-7-1024x300.gif)
 
 <h1 align="center">Hey there! 👋 I'm Adarsh Kumar Lal</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Programmer+%F0%9F%92%BB;Basketballer+%F0%9F%8F%80;Ambitious+Learner+%F0%9F%94%8A" alt="Typing SVG" />
+</p>
 <h3 align="center">A passionate Software Engineer & Salesforce Developer from India, building awesome things! 🛠️🇮🇳</h3>
 
 <img align="right" alt="Coding" height="250" width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
@@ -35,13 +38,13 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/adarsh-kumar-lal" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh kumar lal" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.hackerrank.com/adarshcodes02111" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adarshcodes02111" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
   <a href="https://leetcode.com/adarshcodes88" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adarshcodes88" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
 
